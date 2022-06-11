@@ -1,0 +1,3 @@
+"""
+Counter statistic service.
+"""
